@@ -1,0 +1,41 @@
+GrainGuard grain photos
+=======================
+
+The following Wikimedia Commons photos are used under their respective
+Creative Commons Attribution-ShareAlike licenses. The local files are resized
+thumbnails; attribution is to the original works.
+
+Rice
+----
+Title: Uncooked ST25 rice on bamboo surface
+Author: VinhNguyen.1257
+Source: https://commons.wikimedia.org/wiki/File:Uncooked_ST25_rice_on_bamboo_surface.jpg
+License: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Wheat
+-----
+Title: A close-up image of wheat grains
+Author: Thamizhpparithi Maari
+Source: https://commons.wikimedia.org/wiki/File:A_close-up_image_of_wheat_grains.jpg
+License: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Maize
+-----
+Title: Zea mays seeds closeup
+Author: Rasbak
+Source: https://commons.wikimedia.org/wiki/File:Zea_mays_seeds_closeup.jpg
+License: CC BY-SA 3.0 - https://creativecommons.org/licenses/by-sa/3.0/
+
+Millets
+-------
+Title: Millet - grains unmilled milled
+Author: T.K. Naliaka
+Source: https://commons.wikimedia.org/wiki/File:Millet_-_grains_unmilled_milled.jpg
+License: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
+
+Other grains
+------------
+Title: Grains market at Dan Daura village, Kaduna State 01
+Author: Friday musa
+Source: https://commons.wikimedia.org/wiki/File:Grains_market_at_Dan_Daura_village,_Kaduna_State_01.jpg
+License: CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/
